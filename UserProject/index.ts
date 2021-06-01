@@ -108,6 +108,6 @@ interface UserProps {
     }
   }
 
-const user = new User('Renato', 'Pereira', 'renato3x', 'renato@gmail.com', '123', '324235623', 'contact', true)
+const user = new User('Renato', 'Pereira', 'renato3x', 'renato@gmail.com', '123', '324235623', '99999-9999', true)
 
 console.log(user)
