@@ -9,3 +9,5 @@ npx tsc --init
 npm install -g @angular/cli
 
 ng generate component
+
+ng g c
