@@ -7,6 +7,7 @@ import { SecondComponent } from './second/second.component';
 import { FormularioComponent } from './formulario/formulario.component';
 import { StyledInputComponent } from './styled-input/styled-input.component';
 import { StyledButtonComponent } from './styled-button/styled-button.component'
+import { FormsModule } from '@angular/forms'
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { StyledButtonComponent } from './styled-button/styled-button.component'
     StyledButtonComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
