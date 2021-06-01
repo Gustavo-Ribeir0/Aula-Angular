@@ -1,4 +1,4 @@
-interface UserProps {
+/*interface UserProps {
     firstName: string,
     lastName: string,
     username: string,
@@ -111,3 +111,4 @@ interface UserProps {
 const user = new User('Renato', 'Pereira', 'renato3x', 'renato@gmail.com', '123', '324235623', '99999-9999', true)
 
 console.log(user)
+*/
