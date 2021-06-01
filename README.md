@@ -8,6 +8,8 @@ npx tsc --init
 
 npm install -g @angular/cli
 
+ng new projeto
+
 ng generate component
 
 ng g c
