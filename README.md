@@ -11,3 +11,7 @@ npm install -g @angular/cli
 ng generate component
 
 ng g c
+
+ng serve --open
+
+:D
